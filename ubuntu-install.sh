@@ -24,8 +24,8 @@ echo "https://github.com/settings/ssh/new"
 read -p "Once this is done press enter to continue"
 
 echo "Installing BotTok..."
-git clone git@github.com:jfadev/bottok.git
-cd bottok
+git clone git@github.com:KTmodz/fktok.git
+cd fktok
 npm install
 
 echo "Starting BotTok..."
