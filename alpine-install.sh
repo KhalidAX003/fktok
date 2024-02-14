@@ -34,7 +34,7 @@ echo "Once this is done press enter to continue"
 read
 
 echo "Installing BotTok..."
-git clone git@github.com:KTmodz/fktok.git
+git clone git@github.com:KhalidAX003/fktok.git
 cd fktok
 export PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
 export PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium-browser
